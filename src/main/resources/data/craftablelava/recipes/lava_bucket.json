@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 24000,
+  "experience": 1,
+  "ingredient": {
+    "item": "craftablelava:stone_bucket"
+  },
+  "result": "minecraft:lava_bucket"
+}

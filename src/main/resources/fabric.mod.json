@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "craftablelava",
+  "version": "0.2",
+
+  "name": "Craftable Lava",
+  "description": "Blast Stone into Lava",
+  "authors": [
+    "Wondiws98"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/wondiws98/projects"
+  },
+
+  "license": "Public Domain",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.wondiws98.craftablelava.CraftableLavaMain"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
